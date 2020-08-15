@@ -1,6 +1,6 @@
 # FDA  Validation Plan
 
-**Your Name: Alexandru Korotcov**
+**Name: Alexandru Korotcov**
 
 **Name of the Device: Quantifying Hippocampus Volume for Alzheimer's Progression AI Assistant**
 
